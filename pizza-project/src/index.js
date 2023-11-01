@@ -123,6 +123,7 @@ function Footer() {
           </p>
         )}
         <button className="btn">Order</button>
+        <button className="btn">FeeedBack</button>
       </div>
     </footer>
   );
